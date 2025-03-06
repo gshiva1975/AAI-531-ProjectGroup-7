@@ -39,57 +39,6 @@ Recommender System Development: Combining collaborative and content-based filter
 Sentiment Analysis: Using NLP techniques to assess consumer sentiments from reviews.
 Fairness and Transparency Implementation: Applying SHAP and LIME for model interpretability.
 Consumer Segmentation: Clustering buyers to tailor recommendations effectively.
-Team Roles and Responsibilities:
-Role
-Member 1
-Member 2
-Member 3
-Data Collection & Cleaning
-✓
-✓
-
-
-Exploratory Data Analysis
-✓
-✓
-
-
-Feature Engineering
-✓
-
-
-
-
-NLP & Sentiment Analysis
-✓
-
-
-
-
-Model Optimization
-
-
-✓
-
-
-Explainability & Fairness Implementation
-
-
-✓
-
-
-Model Training & Testing,Documentation
-✓
-✓
-✓
-
-
-
-
-
-
-
-
 
 Collaboration Strategy:
 Communication: Regular discussions on whatsapp, email
