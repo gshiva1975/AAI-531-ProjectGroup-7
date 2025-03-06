@@ -3,21 +3,28 @@
 Abstract: This project focuses on developing a data-driven recommender system that personalizes iPhone model suggestions based on user preferences and market trends. By leveraging machine learning techniques, NLP,  agentic  AI, transformers, including collaborative and content-based filtering, the system will provide accurate recommendations while maintaining fairness and transparency. The research will emphasize ethical considerations such as data privacy, bias mitigation, and explainability. Techniques like SHAP and LIME will be integrated to enhance interpretability, ensuring users understand how recommendations are generated. The goal is to develop a fair, explainable, and consumer-focused AI-driven recommendation system.
 
 Project Proposal Topics of Interest:
+
 Ethical AI in Recommender Systems
 Addressing Bias in Machine Learning Models
 Enhancing AI Transparency and Interpretability
 Ethical Importance: Recommender systems influence consumer behavior and shape decision-making processes. If not carefully designed, they can introduce bias, compromise user privacy, and lack transparency, ultimately reducing trust in AI-driven solutions. Ensuring fairness and explainability in such systems is critical for ethical AI deployment.
+
 Key Ethical Challenges and Technologies:
+
 Challenges:
 Reducing biases in recommendations based on demographics or socio-economic factors.
 Maintaining data privacy while delivering personalized suggestions.
 Providing explainable AI-driven decisions to build trust among users.
+
 Technologies Used:
 Machine Learning algorithms such as collaborative filtering and deep learning models.
 Natural Language Processing (NLP) for sentiment analysis of customer feedback.
 Transformer models (e.g., BERT, GPT) for personalized recommendations.
+
 SHAP and LIME for enhancing model explainability and fairness.
 Ensuring AI Transparency: To build user confidence, the recommender system will incorporate interpretability techniques like SHAP and LIME. These methodologies will allow consumers to understand why specific recommendations are made, offering insights into model decisions and fostering accountability.
+
+
 Dataset Overview: The dataset used in this study comprises 3,062 reviews with 11 features, including product variant, country, rating score, and review text. Reviews span multiple geographic regions and are dated from 2021 to Fall 2024.
 ● Total Entries: 3,062 ● Number of Columns: 11 Features:
 productAsin: Product identifier for the iPhone variant.
@@ -33,6 +40,7 @@ variant: Information about the product variant, including color and size.
 variantAsin: Identifier for the product variant.
 
 Methodological Approach:
+
 Data Preprocessing: Cleaning and transforming data for effective analysis.
 Exploratory Data Analysis (EDA): Identifying patterns, trends, and correlations.
 Recommender System Development: Combining collaborative and content-based filtering to enhance personalization.
