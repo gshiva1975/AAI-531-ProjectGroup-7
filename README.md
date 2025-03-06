@@ -26,17 +26,28 @@ Ensuring AI Transparency: To build user confidence, the recommender system will 
 
 
 Dataset Overview: The dataset used in this study comprises 3,062 reviews with 11 features, including product variant, country, rating score, and review text. Reviews span multiple geographic regions and are dated from 2021 to Fall 2024.
+
 ● Total Entries: 3,062 ● Number of Columns: 11 Features:
+
 productAsin: Product identifier for the iPhone variant.
 country: Country where the review was written.
+
 date: Date of the review.
-isVerified: Indicates whether the review is verified.
+
+isVerified: Indicates whether the review is verified
+.
 ratingScore: Rating given by the reviewer (integer values).
+
 reviewTitle: Title of the review.
+
 reviewDescription: Detailed description of the review (with some missing values).
+
 reviewUrl: URL of the review (with some missing values).
+
 reviewedIn: Details on where and when the review was conducted.
+
 variant: Information about the product variant, including color and size.
+
 variantAsin: Identifier for the product variant.
 
 Methodological Approach:
